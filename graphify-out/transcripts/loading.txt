@@ -1,0 +1,1 @@
+A loading animation for a chat application.
